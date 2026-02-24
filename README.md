@@ -99,9 +99,6 @@ Designed & Built with precision and intent.
 ---
 
 ## 🌐 Connect With Me
-
-> Replace links with your real profiles
-
 - GitHub: naimulislammehedi
 - LinkedIn: naimulislammehedi
 - Email: mehedi.interface@gmail.com
